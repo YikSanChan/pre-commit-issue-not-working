@@ -1,1 +1,1 @@
-print("mind the following whitespaces")    
+print("mind the following whitespaces")        
